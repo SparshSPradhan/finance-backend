@@ -39,7 +39,7 @@ API Handling: Axios
 
 Clone the repository:
 
-git clone https://github.com/sparshspradhan/finance-frontend.git
+git clone https://github.com/sparshspradhan/finance-backend.git
 cd frontend
 
 Install dependencies:
