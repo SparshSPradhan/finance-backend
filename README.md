@@ -158,14 +158,21 @@ mongod
 # Run Backend:
 
 cd backend
+
+
 npm install
+
+
+
 npm start or node server.js
 
-Run Frontend:
+
+# Run Frontend:
 
 
-# cd frontend:
+cd frontend
 
 npm install
+
 npm run dev
 
