@@ -131,14 +131,7 @@ personal-finance-visualizer/
 ├── .env
 └── README.md
 
-# In Frontend we have-
-📦 personal-finance-visualizer
- ┣ 📂 components        # Reusable UI components
- ┣ 📂 pages             # Next.js pages
- ┣ 📂 utils             # Helper functions & API calls
- ┣ 📂 styles            # Global styles & Tailwind config
- ┣ 📜 package.json      # Project metadata & dependencies
- ┣ 📜 README.md         # Project documentation
+
 
 🎨 UI Components
 
